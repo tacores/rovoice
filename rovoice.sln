@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rovoice", "rovoice\rovoice.csproj", "{71D496C9-E640-4972-809F-5D7EF7BBBD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{75C7D06D-ABC4-4C7F-9294-E03DE34AC01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D496C9-E640-4972-809F-5D7EF7BBBD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D496C9-E640-4972-809F-5D7EF7BBBD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D496C9-E640-4972-809F-5D7EF7BBBD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D496C9-E640-4972-809F-5D7EF7BBBD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C7D06D-ABC4-4C7F-9294-E03DE34AC01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C7D06D-ABC4-4C7F-9294-E03DE34AC01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C7D06D-ABC4-4C7F-9294-E03DE34AC01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C7D06D-ABC4-4C7F-9294-E03DE34AC01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
